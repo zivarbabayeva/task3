@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navbar .right {
+    width: 80%;
+    float: right;
+    text-align: right;
+    font-size: 17px;
+}
+
+#navbar .left {
+    float: left;
+    width: 20%;
+    cursor: pointer;
+}
+
+#navbar {
+    padding: 20px 4rem;
+    background-color: #212529;
+    overflow: auto;
+    margin-top: 20px;
+    color: #fff;
+}
+
+#navbar .right a {
+    color: #FFFFFF8C;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+#first {
+    text-align: center;
+    background: #00b4db;
+    opacity: 0.8;
+    padding: 6rem 2rem;
+    text-align: center;
+}
+
+#first h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 33px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+#first p {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 30px;
+}
+
+#first a {
+    background-color: #F8F9FA;
+    color: #000000;
+    padding: 12px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.second {
+    padding: 10rem 21rem 10rem;
+    line-height: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.second h1 {
+    font-size: 1.8rem;
+    padding-bottom: 10px;
+    color: #212529;
+}
+
+.second p {
+    margin-bottom: 15px;
+    font-size: 19px;
+    color: gray;
+}
+
+.second ul {
+    padding-left: 30px;
+    font-size: 14px;
+    line-height: 29px;
+}
+
+.services {
+    padding: 9rem 21rem 9rem;
+    background-color: #F8F9FA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.services h1 {
+    font-size: 31px;
+}
+
+.services p {
+    font-size: 1.18rem;
+    margin-top: 10px;
+    color: gray;
+}
+
+.contact {
+    padding: 9rem 21rem 13rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contact h1 {
+    padding-bottom: 15px;
+}
+
+.contact p {
+    font-size: 1.18rem;
+    margin-top: 10px;
+    color: gray;
+}
+
+.footer {
+    background-color: #212529;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #FFFFFF;
+    padding: 45px 0 45px;
+    font-size: 16px;
+}
